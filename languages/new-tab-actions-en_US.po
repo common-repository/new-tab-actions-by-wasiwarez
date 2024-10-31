@@ -1,0 +1,75 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2020-06-25 19:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Short description.
+msgid "Adds row actions to WordPress post and page list tables for executing in new tab"
+msgstr "Adds row actions to WordPress post and page list tables for executing in new tab"
+
+#. Plugin name.
+msgid "New Tab Actions by wasiwarez"
+msgstr "New Tab Actions by wasiwarez"
+
+#. Found in description paragraph.
+msgid "This plugin is really small and it´s functions are executed only, if you are on the WordPress post or page edit page. So it doesn´t even reduce the performance of your site."
+msgstr "This plugin is really small and it´s functions are executed only, if you are on the WordPress post or page edit page. So it doesn´t even reduce the performance of your site."
+
+#. Screenshot description.
+msgid "Links added"
+msgstr "Links added"
+
+#. Found in installation paragraph.
+msgid "Just activate the plugin. The action links will be added automatically. There is no settings or help page of this plugin."
+msgstr "Just activate the plugin. The action links will be added automatically. There is no settings or help page of this plugin."
+
+#. Found in description paragraph.
+msgid "This plugin adds row actions to WordPress list tables. In this version it adds the edit and the view link for opening in new tab. Currently this is only added to the post and the page list table. There will be additional links inside the table rows. Next to the edit link there will be an edit (New tab) link. Next to the view link there will be a view (new tab) link."
+msgstr ""
+"This plugin adds row actions to WordPress list tables. In this version it adds the edit and the view link for opening in new tab. Currently this is only added to the post and the page list table. There will be additional links inside the table rows. Next to the edit link there will be an edit (New tab) link. Next to the view link there will be a view (new tab) link."
+
+#. Found in changelog paragraph.
+msgid "1.0.5 Updated readme.txt"
+msgstr "1.0.5 Updated readme.txt"
+
+#. Found in changelog paragraph.
+msgid "1.0.4 Forgot to change version in plugin file"
+msgstr "1.0.4 Forgot to change version in plugin file"
+
+#. Found in changelog paragraph.
+msgid "1.0.3 Fixing more WordPress SVN update problems"
+msgstr "1.0.3 Fixing more WordPress SVN update problems"
+
+#. Found in changelog paragraph.
+msgid "1.0.2 Fixing WordPress SVN update problems"
+msgstr "1.0.2 Fixing WordPress SVN update problems"
+
+#. Found in changelog paragraph.
+msgid "1.0.1 Translation update"
+msgstr "1.0.1 Translation update"
+
+#. Found in changelog paragraph.
+msgid "1.0 Publication"
+msgstr "1.0 Publication"
+
+#: new-tab-actions.php:28 new-tab-actions.php:39
+msgid " (New tab)"
+msgstr " (New tab)"
